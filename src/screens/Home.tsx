@@ -1,15 +1,15 @@
-import { useEffect } from "react";
-import Logout from "../components/auth/Logout";
-import Center from "../components/utils/Center";
+import { useEffect } from 'react';
+import Logout from '../components/auth/Logout';
+import Center from '../components/utils/Center';
+import { PromptForm } from './PromptForm';
 
 interface Props {}
 
 const Home = ({}: Props) => {
-  useEffect(() => {}, []); // eslint-disable-line react-hooks/exhaustive-deps
-
   return (
     <Center>
-      <Logout />
+      {/* <Logout /> */}
+      <PromptForm />
     </Center>
   );
 };

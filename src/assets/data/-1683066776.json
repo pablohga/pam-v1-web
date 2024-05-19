@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "format": "JSON",
+    "version": "1.1.0",
+    "projectId": "promptartmaker",
+    "resourcePath": ["promptOptions"],
+    "recursive": false,
+    "creationTime": 1683066780,
+    "app": "firefoo"
+  },
+  "data": {
+    "Vy44HENFayJnzIwu2ehR": {
+      "__collections__": {
+        "CommandForViews": {
+          "3": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Não selecionado",
+            "__collections__": {}
+          },
+          "4": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Top-View",
+            "__collections__": {}
+          },
+          "5": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Side-View",
+            "__collections__": {}
+          },
+          "6": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Não selecionado",
+            "__collections__": {}
+          },
+          "7": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Não selecionado",
+            "__collections__": {}
+          },
+          "5K5xiW0eKNwMIhppyVH2": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Não selecionado",
+            "__collections__": {}
+          },
+          "5K5xiW0eKNwMIhppyVH2Clone": {
+            "image": "https://placehold.co/150x150/png",
+            "name": "Não selecionado",
+            "__collections__": {}
+          }
+        }
+      }
+    }
+  }
+}
+
+    ,
+    ,
+    "Satellite-View",
+    "Centered-Shot",
+    "Selfie",
+    "Aerial View",
+    "View From an Airplane",
+    "First-Person",
+    "First-Person View",
+    "Field of View",
+    "Closeup",
+    "Closeup-View",
+    "Extreme Closeup",
+    "Third-Person",
+    "Third-Person View",
+    "Product-View",
+    "low angle",
+    "high angle",
+    "Miniature Faking",
+    "Brenizer Method",
+    "Perpective",
+    "Panini Projection",
+    "Accelerated Perpective",
+    "Linear Perspective",
+    "Orthographic",
+    "Isometric",
+    "Axonometric",
+    "Forced Perspective",
+    "Aerial Perspective"
